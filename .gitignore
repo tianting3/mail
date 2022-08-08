@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+mail-coupon/src/main/resources/static/
+mail-coupon/src/main/resources/templates/
+mail-member/src/main/resources/static/
+mail-member/src/main/resources/templates/
+mail-order/src/main/resources/static/
+mail-order/src/main/resources/templates/
+mail-product/src/main/resources/static/
+mail-product/src/main/resources/templates/
+mail-ware/src/main/resources/static/
+mail-ware/src/main/resources/templates/
+
+**/.gitignore
